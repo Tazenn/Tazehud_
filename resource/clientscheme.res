@@ -945,7 +945,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "14"
                 "weight"    "500"
                 "additive"  "0"
@@ -956,7 +956,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "14"
                 "weight"    "500"
                 "additive"  "0"
@@ -991,7 +991,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "11"
                 "weight"    "500"
                 "additive"  "0"
@@ -1002,7 +1002,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "4"
                 "weight"    "500"
                 "additive"  "0"
@@ -1013,7 +1013,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "10"
                 "weight"    "500"
                 "additive"  "0"
@@ -1024,7 +1024,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "16"
                 "weight"    "500"
                 "additive"  "0"
@@ -1035,7 +1035,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "9"
                 "weight"    "0"
                 "additive"  "0"
@@ -1057,7 +1057,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "6"
                 "weight"    "0"
                 "additive"  "0"
@@ -1892,7 +1892,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "36"
                 "tall_lodef"        "28"
                 "weight"    "500"
@@ -1902,7 +1902,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "30"
                 "tall_lodef"        "22"
                 "weight"    "500"
@@ -1988,7 +1988,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "36"
                 "weight"    "500"
                 "additive"  "0"
@@ -2085,7 +2085,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "8"
                 "weight"    "500"
                 "additive"  "0"
@@ -2096,7 +2096,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "9"
                 "weight"    "500"
                 "additive"  "0"
@@ -2107,7 +2107,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "12"
                 "weight"    "500"
                 "additive"  "0"
@@ -2152,7 +2152,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "9"
                 "weight"    "500"
                 "additive"  "0"
@@ -2163,7 +2163,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "9"
                 "weight"    "500"
                 "blur"      "3"
@@ -2302,7 +2302,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "11"
                 "weight"    "500"
                 "additive"  "0"
@@ -2313,7 +2313,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "14"
                 "weight"    "500"
                 "additive"  "0"
@@ -2337,7 +2337,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "24"
                 "weight"    "500"
                 "additive"  "0"
@@ -2365,7 +2365,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "14"
                 "weight"    "500"
                 "additive"  "0"
@@ -2376,7 +2376,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Varsity Regular"
+                "name"      "TF2 Build"
                 "tall"      "24"
                 "weight"    "500"
                 "additive"  "0"
@@ -2412,7 +2412,7 @@ Scheme
         {
             "1"
             {
-                "name"  "Varsity Regular"
+                "name"  "TF2 Build"
                 "tall" "14"
                 "weight" "900"
                 "antialias" "1"
@@ -4607,7 +4607,7 @@ Scheme
         "6" 
         {
             "font" "resource/TF2Build.ttf"
-            "name" "Varsity Regular"
+            "name" "TF2 Build"
             "russian"
             {
                 "range" "0x0000 0xFFFF"
@@ -4679,7 +4679,7 @@ Scheme
         "18"
         {
             "font"  "resource/fonts/varsity_regular"
-            "name" "Varsity Regular"
+            "name" "TF2 Build"
         }
 		}
 }
