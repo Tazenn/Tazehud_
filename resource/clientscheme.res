@@ -945,7 +945,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "14"
                 "weight"    "500"
                 "additive"  "0"
@@ -956,7 +956,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "14"
                 "weight"    "500"
                 "additive"  "0"
@@ -991,7 +991,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "11"
                 "weight"    "500"
                 "additive"  "0"
@@ -1002,7 +1002,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "4"
                 "weight"    "500"
                 "additive"  "0"
@@ -1013,7 +1013,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "10"
                 "weight"    "500"
                 "additive"  "0"
@@ -1024,7 +1024,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "16"
                 "weight"    "500"
                 "additive"  "0"
@@ -1035,7 +1035,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "9"
                 "weight"    "0"
                 "additive"  "0"
@@ -1057,7 +1057,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "6"
                 "weight"    "0"
                 "additive"  "0"
@@ -1892,7 +1892,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "36"
                 "tall_lodef"        "28"
                 "weight"    "500"
@@ -1902,7 +1902,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "30"
                 "tall_lodef"        "22"
                 "weight"    "500"
@@ -1988,7 +1988,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "36"
                 "weight"    "500"
                 "additive"  "0"
@@ -2085,7 +2085,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "8"
                 "weight"    "500"
                 "additive"  "0"
@@ -2096,7 +2096,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "9"
                 "weight"    "500"
                 "additive"  "0"
@@ -2107,7 +2107,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "12"
                 "weight"    "500"
                 "additive"  "0"
@@ -2152,7 +2152,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "9"
                 "weight"    "500"
                 "additive"  "0"
@@ -2163,7 +2163,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "9"
                 "weight"    "500"
                 "blur"      "3"
@@ -2302,7 +2302,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "11"
                 "weight"    "500"
                 "additive"  "0"
@@ -2313,7 +2313,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "14"
                 "weight"    "500"
                 "additive"  "0"
@@ -2337,7 +2337,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "24"
                 "weight"    "500"
                 "additive"  "0"
@@ -2365,7 +2365,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "14"
                 "weight"    "500"
                 "additive"  "0"
@@ -2376,7 +2376,7 @@ Scheme
         {
             "1"
             {
-                "name"      "TF2 Build"
+                "name"      "Varsity Regular"
                 "tall"      "24"
                 "weight"    "500"
                 "additive"  "0"
@@ -2402,7 +2402,7 @@ Scheme
         {
             "1"
             {
-                "name"  "Sansation Regular"
+                "name"  "Roboto Medium"
                 "tall" "10"
                 "weight" "900"
                 "antialias" "1"
@@ -2412,7 +2412,7 @@ Scheme
         {
             "1"
             {
-                "name"  "Sansation Regular"
+                "name"  "Varsity Regular"
                 "tall" "14"
                 "weight" "900"
                 "antialias" "1"
@@ -2422,8 +2422,8 @@ Scheme
         {
             "1"
             {
-                "name"  "Sansation Regular"
-                "tall" "18"
+                "name"  "Roboto Medium"
+                "tall" "30"
                 "weight" "900"
                 "antialias" "1"
             }
@@ -2432,7 +2432,7 @@ Scheme
         {
             "1"
             {
-                "name"  "Sansation Regular"
+                "name"  "Roboto Medium"
                 "tall" "24"
                 "weight" "900"
                 "antialias" "1"
@@ -2442,7 +2442,7 @@ Scheme
         {
             "1"
             {
-                "name"  "Sansation Regular"
+                "name"  "Roboto Medium"
                 "tall" "28"
                 "weight" "900"
                 "antialias" "1"
@@ -2452,7 +2452,7 @@ Scheme
         {
             "1"
             {
-                "name"  "Sansation Regular"
+                "name"  "Roboto Medium"
                 "tall" "32"
                 "weight" "900"
                 "antialias" "1"
@@ -2462,7 +2462,7 @@ Scheme
         {
             "1"
             {
-                "name"  "Sansation Regular"
+                "name"  "Roboto Medium"
                 "tall" "48"
                 "weight" "900"
                 "antialias" "1"
@@ -2472,7 +2472,7 @@ Scheme
         {
             "1"
             {
-                "name"  "Sansation Regular"
+                "name"  "Roboto Medium"
                 "tall" "56"
                 "weight" "900"
                 "antialias" "1"
@@ -4607,7 +4607,7 @@ Scheme
         "6" 
         {
             "font" "resource/TF2Build.ttf"
-            "name" "TF2 Build"
+            "name" "Varsity Regular"
             "russian"
             {
                 "range" "0x0000 0xFFFF"
@@ -4656,5 +4656,30 @@ Scheme
 			"font" "resource/fonts/geosanslight.ttf"
 			"name" "Geosans"
 		}
-    }
+        "14"
+        {
+            "font"  "resource/fonts/Roboto/Roboto-Black"
+            "name" "Roboto Black"
+        }
+        "15"
+        {
+            "font"  "resource/fonts/Roboto/Roboto-Light"
+            "name" "Roboto Light"
+        }
+        "16"
+        {
+            "font"  "resource/fonts/Roboto/Roboto-Medium"
+            "name" "Roboto Medium"
+        }
+        "17"
+        {
+            "font"  "resource/fonts/ka1"
+            "name" "Karmatic Arcade"
+        }		
+        "18"
+        {
+            "font"  "resource/fonts/varsity_regular"
+            "name" "Varsity Regular"
+        }
+		}
 }
