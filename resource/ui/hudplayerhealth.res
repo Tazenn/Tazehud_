@@ -83,7 +83,7 @@
         "labelText"     "%Health%"
         "textAlignment" "center"    
         "font"          "sans48"
-        "fgcolor"       "tanlight"
+        "fgcolor"       "170 255 255 255"
         "xpos_minmode"  "65"
         "ypos_minmode"  "20"
         "fgcolor_minmode"   "tanlight"
