@@ -34,7 +34,7 @@
     {
         "ControlName"   "ImagePanel"        
         "fieldName" "CapPlayerImage"
-        "xpos"      "0"
+        "xpos"      "-1"
         //"xpos_minmode"      "0"
         "ypos"      "0"
         //"ypos_minmode"      "0"
@@ -53,9 +53,9 @@
     {   
         "ControlName"       "Label"
         "fieldName"     "CapNumPlayers"
-        "font"          "Roboto Medium"
+        "font"          "sans14"
         //"font_minmode"          "CapPlayerFontSmall"
-        "xpos"          "17"
+        "xpos"          "15"
         //"xpos_minmode"          "10"
         "ypos"          "1"
         //"ypos_minmode"          "3"
@@ -70,8 +70,8 @@
         "enabled"       "1"
         "labelText"     "#ControlPointIconCappers"
         "textAlignment"     "west"
-        "dulltext"      "0"
-        "brighttext"        "0"
+        "dulltext"      "1"
+        "brighttext"        "1"
     }
 
     "OverlayImage"

@@ -512,7 +512,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"ClassImage"
-		"xpos"			"22"
+		"xpos"			"18"
 		"xpos_lodef"	"12"
 		"ypos"			"350"	[$WIN32]
 		"ypos"			"275"	[$X360]
@@ -873,11 +873,11 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Kills"
-			"font"			"HudFontMediumBold"
+			"font"			"sans18"
 			"fgcolor"		"128 255 0 255"
 			"labelText"		"%kills%"
 			"textAlignment"		"east"
-			"xpos"			"35"
+			"xpos"			"47"
 			"ypos"			"7"	[$WIN32]
 			"zpos"			"3"
 			"wide"			"95"
@@ -891,11 +891,11 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Deaths"
-			"font"			"HudFontMediumBold"
+			"font"			"sans18"
 			"fgcolor"		"255 87 87 255"
 			"labelText"		"%deaths%"
 			"textAlignment"		"west"
-			"xpos"			"147"
+			"xpos"			"150"
 			"ypos"			"0"	[$WIN32]
 			"zpos"			"30"
 			"wide"			"95"
