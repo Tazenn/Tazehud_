@@ -875,7 +875,7 @@
 			"fieldName"		"Kills"
 			"font"			"HudFontMediumBold"
 			"fgcolor"		"128 255 0 255"
-			"labelText"		"%kills%:"
+			"labelText"		"%kills%"
 			"textAlignment"		"east"
 			"xpos"			"35"
 			"ypos"			"7"	[$WIN32]
@@ -893,7 +893,7 @@
 			"fieldName"		"Deaths"
 			"font"			"HudFontMediumBold"
 			"fgcolor"		"255 87 87 255"
-			"labelText"		":%deaths%"
+			"labelText"		"%deaths%"
 			"textAlignment"		"west"
 			"xpos"			"147"
 			"ypos"			"0"	[$WIN32]
@@ -905,21 +905,6 @@
 			"visible"		"1"
 			"enabled"		"1"
 		}	
-		"K:D colon"
-		{
-		    "font"			"HudFontMediumBold"
-			"fgcolor"		"255 87 87 255"
-			"labelText"		":"
-			"textAlignment"		"east"
-			"xpos"			"147"
-			"ypos"			"5"	[$WIN32]
-			"zpos"			"30"
-			"wide"			"95"
-			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
 		"MapName"
 		{
 			"ControlName"	"CExLabel"

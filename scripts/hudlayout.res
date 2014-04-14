@@ -184,8 +184,8 @@
         "enabled" "1"
         "xpos"  "c-90"
         "ypos"  "0"
-        "wide"  "200"
-        "tall"  "160"
+        "wide"  "300"
+        "tall"  "100"
         
         "blue_active_xpos"          "16"
         //"blue_active_xpos_minmode"  "55"

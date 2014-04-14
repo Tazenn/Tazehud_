@@ -9,15 +9,15 @@
         "PositiveColor"         "0 255 0 255"
         "NegativeColor"         "255 255 0 255"
         "delta_lifetime"        "1.5"
-        "delta_item_font"       "sans18"
-        "delta_item_font_big"   "sans24"
+        "delta_item_font"       "sans14"
+        "delta_item_font_big"   "sans18"
     }
 	"DamageAccountValue"
 	{
 		"ControlName"   "CExLabel"
 		"fieldName"  "DamageAccountValue"
-		"xpos"   "c140"
-		"ypos"   "r175"
+		"xpos"   "290"
+		"ypos"   "300"
 		"zpos"   "2"
 		"wide"   "100"
 		"tall"   "26"
@@ -25,16 +25,16 @@
 		"enabled"    "1"
 		"labelText"  "%metal%"
 		"textAlignment" "west"
-		"fgcolor"    "255 255 0 255"
-		"font"      "sans24"
+		"fgcolor"    "255 145 145 255"
+		"font"      "sans18"
 	}
 
 	"DamageAccountValueBG"
 	{
 		"ControlName"   "CExLabel"
 		"fieldName"  "DamageAccountValueBG"
-		"xpos"   "c141"
-		"ypos"   "r174"
+		"xpos"   "291"
+		"ypos"   "301"
 		"zpos"   "1"
 		"wide"   "100"
 		"tall"   "26"
@@ -43,6 +43,6 @@
 		"labelText"  "%metal%"
 		"textAlignment" "west"
 		"fgcolor"    "0 0 0 255"
-		"font"   "sans24"
+		"font"   "sans18"
 	}
 }
