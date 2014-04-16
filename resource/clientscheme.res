@@ -1,4 +1,5 @@
 //
+//
 // TRACKER SCHEME RESOURCE FILE
 //
 // sections:
@@ -2423,7 +2424,7 @@ Scheme
             "1"
             {
                 "name"  "Roboto Medium"
-                "tall" "30"
+                "tall" "25"
                 "weight" "900"
                 "antialias" "1"
             }
@@ -4680,6 +4681,16 @@ Scheme
         {
             "font"  "resource/fonts/varsity_regular"
             "name" "TF2 Build"
+        }
+		"19"
+        {
+            "font"  "resource/fonts/circular-medium"
+            "name" "Circular-Medium"
+        }
+		"20"
+        {
+            "font"  "resource/fonts/ARCADE_R"
+            "name" "Arcade Rounded"
         }
 		}
 }
