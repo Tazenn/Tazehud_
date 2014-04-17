@@ -2135,7 +2135,7 @@
 		"xpos"			"10"
 		"ypos"			"60"
 		"zpos"			"11"
-		"wide"			"210"
+		"wide"			"250"
 		"tall"			"18"
 		"visible"		"1"
 
@@ -2145,7 +2145,7 @@
 			"fieldName"		"SubButton"
 			"xpos"			"0"
 			"ypos"			"0"
-			"wide"			"150"
+			"wide"			"250"
 			"tall"			"18"
 			"autoResize"	"0"
 			"pinCorner"		"3"
