@@ -9,7 +9,7 @@
         //"xpos_minmode"  "r52"   [$WIN32]
         "ypos"          "r150"   [$WIN32]
         //"ypos_minmode"  "r54"   [$WIN32]
-        "wide"          "200"
+        "wide"          "180w"
         "tall"          "40"
         "MeterFG"       "White"
         "MeterBG"       "Gray"

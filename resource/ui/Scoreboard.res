@@ -873,11 +873,11 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Kills"
-			"font"			"sans18"
+			"font"			"sans32"
 			"fgcolor"		"128 255 0 255"
 			"labelText"		"%kills%"
 			"textAlignment"		"east"
-			"xpos"			"47"
+			"xpos"			"43"
 			"ypos"			"7"	[$WIN32]
 			"zpos"			"3"
 			"wide"			"95"
@@ -891,7 +891,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Deaths"
-			"font"			"sans18"
+			"font"			"sans32"
 			"fgcolor"		"255 87 87 255"
 			"labelText"		"%deaths%"
 			"textAlignment"		"west"
