@@ -533,7 +533,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"PlayerNameLabel"
-		"font"			"ScoreboardBig"
+		"font"			"ScoreboardMedium"
 		"labelText"		"%playername%"
 		"textAlignment"		"west"
 		"xpos"			"115"
@@ -584,7 +584,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"PlayerScoreLabel"
-		"font"		"ScoreboardBig"
+		"font"		"sans24"
 		"labelText"		"%playerscore%"
 		"textAlignment"	"east"
 		"xpos"			"440"
